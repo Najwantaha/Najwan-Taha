@@ -1,1 +1,14 @@
-# Najwan-Taha
+## Hey 👋, This is Najwan Taha
+[![Gmail Badge](https://img.shields.io/badge/-najwantaha@email.arizona.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:najwantaha@email.arizona.edu)](mailto:najwantaha@email.arizona.edu) 
+[![Linkedin Badge](https://img.shields.io/badge/-Najwan Taha-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Najwan Taha/)](https://www.linkedin.com/in/Najwan Taha/) [![Github Badge](https://img.shields.io/badge/-Najwan Taha-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Najwan Taha/)](https://www.github.com/Najwan Taha/) [![Twitter Badge](https://img.shields.io/badge/-najwantaha@email.arizona.edu-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/najwantaha@email.arizona.edu/)](https://www.twitter.com/najwantaha@email.arizona.edu/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=najwantaha@email.arizona.edu/)](najwantaha@email.arizona.edu/) <p align='left'>As a data-driven professional with a strong background in Business Intelligence and Data Analysis, I specialize in transforming complex data into actionable insights that drive strategic business decisions. With expertise in SQL, Tableau, Power BI, and data analysis, I am adept at leveraging these tools to extract, analyze, and visualize data to support business performance optimization.
+
+My academic foundation includes a Master’s degree in Agricultural and Biosystems Engineering, where I honed my analytical and problem-solving abilities, and recently, I completed a Business Intelligence Analysis program at Tripleten Coding Bootcamp, equipping me with cutting-edge skills in data analytics and business intelligence tools.
+
+Throughout my career, I’ve gained hands-on experience in both technical and cross-functional roles, including as a Scheduling Engineer at Schindler Group. There, I developed project schedules, performed detailed data analysis, and worked with teams to optimize resource allocation—skills I am eager to apply to data analysis and BI-focused roles. My experience in project management further refined my ability to manage complex tasks while maintaining focus on delivering data-driven solutions that improve outcomes.
+
+I’m now seeking a Data Analyst or Business Intelligence Analyst position where I can leverage my strong technical expertise, analytical skills, and problem-solving mindset to contribute to data-driven decision-making and business growth.</p><p align='left'> You can view my resume <a href='https://1drv.ms/w/c/d418d41a04e73b19/ETldOH_nm0RDnrq0-cGbCRgBXnP1Qycf5aOqX5zkJsOoIw?e=QhX9Xd ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Najwan Taha alt=Najwan Taha /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Najwan Taha&show_icons=true&include_all_commits=true)](https://github.com/Najwan Taha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Najwan Taha&layout=compact)](https://github.com/Najwan Taha/github-readme-stats)
